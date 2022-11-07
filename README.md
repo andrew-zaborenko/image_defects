@@ -24,3 +24,6 @@ for x in range(img.shape[1]):
 ```
 `MASK_THRESHOLD` is the color threshold to destinguish between the black logo and white background. 
 More examples and visualizations can be found in the notebook.
+
+Sample output:
+![image](https://user-images.githubusercontent.com/72259060/200409800-2a27c23e-71e5-4773-bf84-67ed23f575e8.png)
